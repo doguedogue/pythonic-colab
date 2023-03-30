@@ -1,2 +1,2 @@
-# pythonic-colab
+# pythonic-colab 🐍
 Pythonic Google Colab
